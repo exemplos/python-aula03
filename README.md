@@ -2,7 +2,9 @@
 
 ## Listas
 https://www.w3schools.com/python/python_lists.asp
+
 https://www.w3schools.com/python/ref_list_index.asp
+
 https://www.w3schools.com/python/ref_list_sort.asp
 
 ## If
